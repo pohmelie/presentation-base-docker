@@ -8,4 +8,4 @@ python -m pip install landslide
 ``` bash
 landslide -i -d index.html -l table -t theme slides.md
 ```
-[Slides](https://pohmelie.github.io/presentation-docker-overview/#slide1)
+[Slides](https://pohmelie.github.io/presentation-base-docker/#slide1)
